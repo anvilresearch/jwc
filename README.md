@@ -1,4 +1,4 @@
-# jwc
+# JWC (_trust/jwc_) 
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![Build Status](https://travis-ci.org/anvilresearch/jwc.svg?branch=master)](https://travis-ci.org/anvilresearch/jwc)
